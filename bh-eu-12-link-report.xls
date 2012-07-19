@@ -1,0 +1,1683 @@
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-archives.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(12)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(16)	int(absolute)	https://www.blackhat.com
+5	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(18)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(19)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(20)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(21)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(22)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(23)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(25)	int(No File!)	bh-eu-12-press.html
+13	LineNum(26)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(32)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(33)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(34)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(35)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int( anchor )	#
+19	LineNum(43)	int( anchor )	#apvrille
+20	LineNum(44)	int( anchor )	#guido
+21	LineNum(45)	int( anchor )	#atlasis
+22	LineNum(46)	int( anchor )	#bailey
+23	LineNum(47)	int( anchor )	#baker
+24	LineNum(48)	int( anchor )	#beery
+25	LineNum(49)	int( anchor )	#belenko
+26	LineNum(50)	int( anchor )	#davis
+27	LineNum(51)	int( anchor )	#vries
+28	LineNum(52)	int( anchor )	#erasmus
+29	LineNum(53)	int( anchor )	#siddharth
+30	LineNum(54)	int( anchor )	#jordon
+31	LineNum(55)	int( anchor )	#guido
+32	LineNum(56)	int( anchor )	#haruyama
+33	LineNum(57)	int( anchor )	#hofmann
+34	LineNum(58)	int( anchor )	#iozzo
+35	LineNum(59)	int( anchor )	#jarmoc
+36	LineNum(60)	int( anchor )	#jordon
+37	LineNum(61)	int( anchor )	#lee
+38	LineNum(62)	int( anchor )	#lindner
+39	LineNum(63)	int( anchor )	#litchfield
+40	LineNum(64)	int( anchor )	#lovet
+41	LineNum(65)	int( anchor )	#lord
+42	LineNum(66)	int( anchor )	#los
+43	LineNum(67)	int( anchor )	#lovet
+44	LineNum(68)	int( anchor )	#los
+45	LineNum(69)	int( anchor )	#madou
+46	LineNum(70)	int( anchor )	#rey
+47	LineNum(71)	int( anchor )	#mittal
+48	LineNum(72)	int( anchor )	#nunez
+49	LineNum(73)	int( anchor )	#polstra
+50	LineNum(74)	int( anchor )	#radcliffe
+51	LineNum(75)	int( anchor )	#rajnovic
+52	LineNum(76)	int( anchor )	#rey
+53	LineNum(77)	int( anchor )	#ritter
+54	LineNum(78)	int( anchor )	#roses
+55	LineNum(79)	int( anchor )	#royal
+56	LineNum(80)	int( anchor )	#sasi
+57	LineNum(81)	int( anchor )	#hofmann
+58	LineNum(82)	int( anchor )	#searle
+59	LineNum(83)	int( anchor )	#shah
+60	LineNum(84)	int( anchor )	#siddharth
+61	LineNum(85)	int( anchor )	#sintsov
+62	LineNum(86)	int( anchor )	#belenko
+63	LineNum(87)	int( anchor )	#haruyama
+64	LineNum(88)	int( anchor )	#williams
+65	LineNum(89)	int( anchor )	#wysopal
+66	LineNum(90)	int( anchor )	#yang
+67	LineNum(91)	int( anchor )	#lee
+68	LineNum(95)	int( anchor )	#
+69	LineNum(96)	int( anchor )	#baylor
+70	LineNum(97)	int( anchor )	#fulton
+71	LineNum(98)	int( anchor )	#mittal2
+72	LineNum(99)	int( anchor )	#searle2
+73	LineNum(100)	int( anchor )	#stevens
+74	LineNum(151)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+75	LineNum(153)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+76	LineNum(156)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+77	LineNum(160)	int(No File!)	leavingcd.html
+78	LineNum(175)	int(absolute)	https://media.blackhat.com/bh-eu-12/videos/bh-eu-12-DIffie-Keynote.mp4
+79	LineNum(189)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lovet/bh-eu-12-Lovet-Human_Virology-WP.pdf
+80	LineNum(191)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lovet/bh-eu-12-Lovet-Human_Virology-Slides.pdf
+81	LineNum(193)	int(absolute)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu-Attackers_Day_into_Virology.mov
+82	LineNum(198)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+83	LineNum(202)	int(No File!)	leavingcd.html
+84	LineNum(205)	int(File fnd)	bh-eu-12-speaker_bios.html#apvrille
+85	LineNum(206)	int(File fnd)	bh-eu-12-speaker_bios.html#lovet
+86	LineNum(218)	int(absolute)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-WP.pdf
+87	LineNum(220)	int(absolute)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-Slides.pdf
+88	LineNum(223)	int(absolute)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-Tool.zip
+89	LineNum(225)	int(absolute)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6.mov
+90	LineNum(229)	int(No File!)	leavingcd.html
+91	LineNum(231)	int(File fnd)	bh-eu-12-speaker_bios.html#atlasis
+92	LineNum(245)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+93	LineNum(247)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+94	LineNum(250)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+95	LineNum(254)	int(No File!)	leavingcd.html
+96	LineNum(257)	int(File fnd)	bh-eu-12-speaker_bios.html#bailey
+97	LineNum(293)	int(absolute)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks-WP.pdf
+98	LineNum(295)	int(absolute)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks-Slides.pdf
+99	LineNum(297)	int(absolute)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks.mov
+100	LineNum(303)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+101	LineNum(307)	int(No File!)	leavingcd.html
+102	LineNum(310)	int(File fnd)	bh-eu-12-speaker_bios.html#baker
+103	LineNum(330)	int(absolute)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI-Slides.pdf
+104	LineNum(332)	int(absolute)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI-WP.pdf
+105	LineNum(334)	int(absolute)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI.mov
+106	LineNum(338)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+107	LineNum(340)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+108	LineNum(343)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+109	LineNum(347)	int(No File!)	leavingcd.html
+110	LineNum(349)	int(File fnd)	bh-eu-12-speaker_bios.html#beery
+111	LineNum(360)	int(absolute)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption-WP.pdf
+112	LineNum(362)	int(absolute)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption-Slides.pdf
+113	LineNum(364)	int(absolute)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption.mov
+114	LineNum(367)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+115	LineNum(371)	int(No File!)	leavingcd.html
+116	LineNum(374)	int(File fnd)	bh-eu-12-speaker_bios.html#belenko
+117	LineNum(375)	int(File fnd)	bh-eu-12-speaker_bios.html#sklyarov
+118	LineNum(389)	int(absolute)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI-WP.pdf
+119	LineNum(391)	int(absolute)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI-Slides.pdf
+120	LineNum(393)	int(absolute)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI.mov
+121	LineNum(396)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+122	LineNum(400)	int(No File!)	leavingcd.html
+123	LineNum(403)	int(File fnd)	bh-eu-12-speaker_bios.html#davis
+124	LineNum(426)	int(absolute)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-WP.pdf
+125	LineNum(428)	int(absolute)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-Slides.pdf
+126	LineNum(431)	int(absolute)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-Tools.zip
+127	LineNum(433)	int(absolute)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning.mov
+128	LineNum(437)	int(No File!)	leavingcd.html
+129	LineNum(440)	int(File fnd)	bh-eu-12-speaker_bios.html#vries
+130	LineNum(462)	int(absolute)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy-Metal_Poisoned_Droid-WP.pdf
+131	LineNum(464)	int(absolute)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy-Metal_Poisoned_Droid-Slides.pdf
+132	LineNum(466)	int(absolute)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy_Metal_That_Posioned_Droid.mov
+133	LineNum(469)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+134	LineNum(473)	int(No File!)	leavingcd.html
+135	LineNum(476)	int(File fnd)	bh-eu-12-speaker_bios.html#erasmus
+136	LineNum(486)	int(absolute)	https://media.blackhat.com/bh-eu-12/Guido/bh-eu-12-GuidoArpaia-Mobile_Exploit_Intelligence_Project.mov
+137	LineNum(490)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+138	LineNum(492)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+139	LineNum(495)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+140	LineNum(499)	int(No File!)	leavingcd.html
+141	LineNum(504)	int(File fnd)	bh-eu-12-speaker_bios.html#guido
+142	LineNum(505)	int(File fnd)	bh-eu-12-speaker_bios.html#arpaia
+143	LineNum(520)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+144	LineNum(522)	int(absolute)	https://media.blackhat.com/bh-eu-12/Haruyama/bh-eu-12-Haruyama-Memory_Forensic-Slides.pdf
+145	LineNum(524)	int(absolute)	https://media.blackhat.com/bh-eu-12/Haruyama/bh-eu-12-Haruyama-Memory_Forensic.mov
+146	LineNum(527)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+147	LineNum(531)	int(No File!)	leavingcd.html
+148	LineNum(536)	int(File fnd)	bh-eu-12-speaker_bios.html#haruyama
+149	LineNum(537)	int(File fnd)	bh-eu-12-speaker_bios.html#suzuki
+150	LineNum(549)	int(absolute)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Defending_privacy_Border-WP.pdf
+151	LineNum(551)	int(absolute)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Defending_privacy_Border-Slides.pdf
+152	LineNum(553)	int(absolute)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Privacy_at_US_Border.mov
+153	LineNum(556)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+154	LineNum(560)	int(No File!)	leavingcd.html
+155	LineNum(565)	int(File fnd)	bh-eu-12-speaker_bios.html#hofmann
+156	LineNum(566)	int(File fnd)	bh-eu-12-speaker_bios.html#schoen
+157	LineNum(576)	int(absolute)	https://media.blackhat.com/bh-eu-12/Iozzo/bh-eu-12-Iozzo-Sandbox_Odyssey.mov
+158	LineNum(580)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+159	LineNum(582)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+160	LineNum(585)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+161	LineNum(589)	int(No File!)	leavingcd.html
+162	LineNum(593)	int(File fnd)	bh-eu-12-speaker_bios.html#iozzo
+163	LineNum(605)	int(absolute)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL_TLS_Interception-WP.pdf
+164	LineNum(607)	int(absolute)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL_TLS_Interception-Slides.pdf
+165	LineNum(609)	int(absolute)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL-TLS.mov
+166	LineNum(612)	int(File fnd)	bh-eu-12-speaker_bios.html#jarmoc
+167	LineNum(621)	int(absolute)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE-Slides.pdf.pdf
+168	LineNum(623)	int(absolute)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE-WP.pdf
+169	LineNum(625)	int(absolute)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE.mov
+170	LineNum(628)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+171	LineNum(630)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+172	LineNum(633)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+173	LineNum(637)	int(No File!)	leavingcd.html
+174	LineNum(641)	int(File fnd)	bh-eu-12-speaker_bios.html#jordon
+175	LineNum(642)	int(File fnd)	bh-eu-12-speaker_bios.html#forshaw
+176	LineNum(655)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-WP.pdf
+177	LineNum(657)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-Slides.pdf
+178	LineNum(660)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-Tool.zip
+179	LineNum(662)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing.mov
+180	LineNum(666)	int(No File!)	leavingcd.html
+181	LineNum(670)	int(File fnd)	bh-eu-12-speaker_bios.html#lee
+182	LineNum(671)	int(File fnd)	bh-eu-12-speaker_bios.html#yee
+183	LineNum(681)	int(absolute)	https://media.blackhat.com/bh-eu-12/fx/bh-eu-12-FX-Apple_vs_Google_Platforms.mov
+184	LineNum(685)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+185	LineNum(687)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+186	LineNum(690)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+187	LineNum(694)	int(No File!)	leavingcd.html
+188	LineNum(698)	int(File fnd)	bh-eu-12-speaker_bios.html#lindner
+189	LineNum(706)	int(absolute)	https://media.blackhat.com/bh-eu-12/Litchfield/bh-eu-12-Litchfield-Assortment_of_Database_Goodies.mov
+190	LineNum(710)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+191	LineNum(712)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+192	LineNum(715)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+193	LineNum(719)	int(No File!)	leavingcd.html
+194	LineNum(723)	int(File fnd)	bh-eu-12-speaker_bios.html#litchfield
+195	LineNum(733)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+196	LineNum(735)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lord/bh-eu-12-Lord-Hotspot-Slides.pdf
+197	LineNum(737)	int(absolute)	https://media.blackhat.com/bh-eu-12/Lord/bh-eu-12-Lord-Hotspot.mov
+198	LineNum(740)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+199	LineNum(744)	int(No File!)	leavingcd.html
+200	LineNum(747)	int(File fnd)	bh-eu-12-speaker_bios.html#lord
+201	LineNum(761)	int(absolute)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling-WP.pdf
+202	LineNum(763)	int(absolute)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling-Slides.pdf
+203	LineNum(765)	int(absolute)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling.mov
+204	LineNum(768)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+205	LineNum(772)	int(No File!)	leavingcd.html
+206	LineNum(776)	int(File fnd)	bh-eu-12-speaker_bios.html#los
+207	LineNum(777)	int(File fnd)	bh-eu-12-speaker_bios.html#macdougall
+208	LineNum(794)	int(absolute)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms-Slides.pdf
+209	LineNum(796)	int(absolute)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms-WP.pdf
+210	LineNum(798)	int(absolute)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms.mov
+211	LineNum(801)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+212	LineNum(805)	int(No File!)	leavingcd.html
+213	LineNum(810)	int(File fnd)	bh-eu-12-speaker_bios.html#lovet
+214	LineNum(811)	int(File fnd)	bh-eu-12-speaker_bios.html#liu
+215	LineNum(823)	int(absolute)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11-WP.pdf
+216	LineNum(825)	int(absolute)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11-Slides.pdf
+217	LineNum(827)	int(absolute)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11.mov
+218	LineNum(830)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+219	LineNum(834)	int(No File!)	leavingcd.html
+220	LineNum(837)	int(File fnd)	bh-eu-12-speaker_bios.html#madou
+221	LineNum(847)	int(absolute)	https://media.blackhat.com/bh-eu-12/Mittal/bh-eu-12-Mittal-Pwnage_Sage_Cont.mov
+222	LineNum(852)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+223	LineNum(854)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+224	LineNum(857)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+225	LineNum(861)	int(No File!)	leavingcd.html
+226	LineNum(864)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+227	LineNum(886)	int(absolute)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems-WP.pdf
+228	LineNum(888)	int(absolute)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems-Slides.pdf
+229	LineNum(890)	int(absolute)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems.mov
+230	LineNum(893)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+231	LineNum(897)	int(No File!)	leavingcd.html
+232	LineNum(900)	int(File fnd)	bh-eu-12-speaker_bios.html#nunez
+233	LineNum(914)	int(absolute)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf
+234	LineNum(916)	int(absolute)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit-Slides.pdf
+235	LineNum(918)	int(absolute)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit.mov
+236	LineNum(921)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+237	LineNum(925)	int(No File!)	leavingcd.html
+238	LineNum(928)	int(File fnd)	bh-eu-12-speaker_bios.html#polstra
+239	LineNum(943)	int(absolute)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Disclosure-WP.pdf
+240	LineNum(945)	int(absolute)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Disclosure-Slides.pdf
+241	LineNum(947)	int(absolute)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Devices.mov
+242	LineNum(950)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+243	LineNum(954)	int(No File!)	leavingcd.html
+244	LineNum(958)	int(File fnd)	bh-eu-12-speaker_bios.html#radcliffe
+245	LineNum(967)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rajnovic/bh-eu-12-Rajnovic-36_Views_of_Cyberspace.mov
+246	LineNum(971)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+247	LineNum(973)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+248	LineNum(976)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+249	LineNum(980)	int(No File!)	leavingcd.html
+250	LineNum(983)	int(File fnd)	bh-eu-12-speaker_bios.html#rajnovic
+251	LineNum(996)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us-WP.pdf
+252	LineNum(998)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us-Slides.pdf
+253	LineNum(1000)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us.mov
+254	LineNum(1003)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+255	LineNum(1007)	int(No File!)	leavingcd.html
+256	LineNum(1012)	int(File fnd)	bh-eu-12-speaker_bios.html#rey
+257	LineNum(1013)	int(File fnd)	bh-eu-12-speaker_bios.html#mende
+258	LineNum(1023)	int(absolute)	https://media.blackhat.com/bh-eu-12/videos/bh-eu-12-Ritter-Future-of-Security-Protocols.mp4
+259	LineNum(1029)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+260	LineNum(1032)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+261	LineNum(1036)	int(No File!)	leavingcd.html
+262	LineNum(1040)	int(File fnd)	bh-eu-12-speaker_bios.html#ritter
+263	LineNum(1052)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps-WP.pdf
+264	LineNum(1054)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps-Slides.pdf
+265	LineNum(1056)	int(absolute)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps.mov
+266	LineNum(1059)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+267	LineNum(1063)	int(No File!)	leavingcd.html
+268	LineNum(1067)	int(File fnd)	bh-eu-12-speaker_bios.html#roses
+269	LineNum(1078)	int(absolute)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment-WP.pdf
+270	LineNum(1080)	int(absolute)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment-Slides.pdf
+271	LineNum(1083)	int(absolute)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-nvmtrace-Code.zip
+272	LineNum(1086)	int(absolute)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment.mov
+273	LineNum(1089)	int(No File!)	leavingcd.html
+274	LineNum(1093)	int(File fnd)	bh-eu-12-speaker_bios.html#royal
+275	LineNum(1103)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+276	LineNum(1105)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security-Slides.pdf
+277	LineNum(1108)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security-Tool.zip
+278	LineNum(1110)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security.mov
+279	LineNum(1114)	int(No File!)	leavingcd.html
+280	LineNum(1118)	int(File fnd)	bh-eu-12-speaker_bios.html#sasi
+281	LineNum(1128)	int(absolute)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Smart_Meters-WP.pdf
+282	LineNum(1130)	int(absolute)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Smart_Meters-Slides.pdf
+283	LineNum(1132)	int(absolute)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Dissecting_Smart_Meters.mov
+284	LineNum(1135)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+285	LineNum(1139)	int(No File!)	leavingcd.html
+286	LineNum(1143)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+287	LineNum(1167)	int(absolute)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10-WP.pdf
+288	LineNum(1169)	int(absolute)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10-Slides.pdf
+289	LineNum(1171)	int(absolute)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10.mov
+290	LineNum(1174)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+291	LineNum(1178)	int(No File!)	leavingcd.html
+292	LineNum(1182)	int(File fnd)	bh-eu-12-speaker_bios.html#shah
+293	LineNum(1192)	int(absolute)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath-WP.pdf
+294	LineNum(1194)	int(absolute)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath-Slides.pdf
+295	LineNum(1196)	int(absolute)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath.mov
+296	LineNum(1199)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+297	LineNum(1203)	int(No File!)	leavingcd.html
+298	LineNum(1208)	int(File fnd)	bh-eu-12-speaker_bios.html#siddharth
+299	LineNum(1209)	int(File fnd)	bh-eu-12-speaker_bios.html#forbes
+300	LineNum(1220)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino-WP.pdf
+301	LineNum(1222)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino-Slides.pdf
+302	LineNum(1224)	int(absolute)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino.mov
+303	LineNum(1227)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+304	LineNum(1231)	int(No File!)	leavingcd.html
+305	LineNum(1235)	int(File fnd)	bh-eu-12-speaker_bios.html#sintsov
+306	LineNum(1246)	int(absolute)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicious_PDFs-WP.pdf
+307	LineNum(1248)	int(absolute)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicious_PDFs-Slides.pdf
+308	LineNum(1250)	int(absolute)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicous_PDF.mov
+309	LineNum(1253)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+310	LineNum(1257)	int(No File!)	leavingcd.html
+311	LineNum(1261)	int(File fnd)	bh-eu-12-speaker_bios.html#stevens
+312	LineNum(1273)	int(absolute)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways-WP.pdf
+313	LineNum(1275)	int(absolute)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways-Slides.pdf
+314	LineNum(1277)	int(absolute)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways.mov
+315	LineNum(1280)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+316	LineNum(1284)	int(No File!)	leavingcd.html
+317	LineNum(1288)	int(File fnd)	bh-eu-12-speaker_bios.html#williams
+318	LineNum(1299)	int(absolute)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-State_of_Software_Security-WP.pdf
+319	LineNum(1301)	int(absolute)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-State_of_Software_Security-Slides.pdf
+320	LineNum(1303)	int(absolute)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-Data_Mining.mov
+321	LineNum(1306)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+322	LineNum(1310)	int(No File!)	leavingcd.html
+323	LineNum(1314)	int(File fnd)	bh-eu-12-speaker_bios.html#wysopal
+324	LineNum(1323)	int(absolute)	https://media.blackhat.com/bh-eu-12/Yang/bh-eu-12-Yang-Kelihos_Botnet.mov
+325	LineNum(1327)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+326	LineNum(1329)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+327	LineNum(1332)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+328	LineNum(1336)	int(No File!)	leavingcd.html
+329	LineNum(1340)	int(File fnd)	bh-eu-12-speaker_bios.html#yang
+330	LineNum(1358)	int(absolute)	https://media.blackhat.com/bh-eu-12/Baylor/bh-eu-12-Baylor-Understanding_Botnets.mov
+331	LineNum(1362)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+332	LineNum(1364)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+333	LineNum(1367)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+334	LineNum(1371)	int(No File!)	leavingcd.html
+335	LineNum(1375)	int(File fnd)	bh-eu-12-speaker_bios.html#baylor
+336	LineNum(1383)	int(absolute)	https://media.blackhat.com/bh-eu-12/Fulton/bh-eu-12-Fulton-Mobile_Network.mov
+337	LineNum(1387)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+338	LineNum(1389)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+339	LineNum(1392)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+340	LineNum(1396)	int(No File!)	leavingcd.html
+341	LineNum(1400)	int(File fnd)	bh-eu-12-speaker_bios.html#fulton
+342	LineNum(1410)	int(absolute)	https://media.blackhat.com/bh-eu-12/Mittal/bh-eu-12-Mittal-Teensy.mov
+343	LineNum(1414)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+344	LineNum(1416)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+345	LineNum(1419)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+346	LineNum(1423)	int(No File!)	leavingcd.html
+347	LineNum(1427)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+348	LineNum(1439)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+349	LineNum(1441)	int(absolute)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Samurai-WTF .pdf
+350	LineNum(1443)	int(absolute)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Samurai-WTF.mov
+351	LineNum(1446)	int(absolute)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+352	LineNum(1450)	int(No File!)	leavingcd.html
+353	LineNum(1454)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-arsenal.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(12)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(16)	int(absolute)	https://www.blackhat.com
+5	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(18)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(19)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(20)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(21)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(22)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(23)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(25)	int(No File!)	bh-eu-12-press.html
+13	LineNum(26)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(32)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(33)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(34)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(35)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(90)	ext(absolute)	http://www.netpeas.com/black-hat-europe-2012-call-for-tools
+19	LineNum(109)	ext(absolute)	http://www.netpeas.com/black-hat-europe-2012-call-for-tools
+20	LineNum(124)	int( anchor )	#OWASP
+21	LineNum(138)	int( anchor )	#Ozkan
+22	LineNum(142)	int( anchor )	#Royal
+23	LineNum(155)	int( anchor )	#Stevens
+24	LineNum(158)	int( anchor )	#Esparza
+25	LineNum(170)	int( anchor )	#Breedijk
+26	LineNum(173)	int( anchor )	#Forbes
+27	LineNum(185)	int( anchor )	#Breedijk
+28	LineNum(188)	int( anchor )	#Labunets
+29	LineNum(200)	int( anchor )	#Jordon
+30	LineNum(203)	int( anchor )	#Mertens
+31	LineNum(212)	ext(absolute)	http://www.netpeas.com
+32	LineNum(220)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+33	LineNum(222)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+34	LineNum(225)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+35	LineNum(229)	int(No File!)	leavingcd.html
+36	LineNum(258)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Breedijk-Seccubus-WP.pdf
+37	LineNum(260)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Breedijk-Seccubus-Slides.pdf
+38	LineNum(263)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+39	LineNum(267)	int(No File!)	leavingcd.html
+40	LineNum(284)	ext(absolute)	http://eternal-todo.com
+41	LineNum(288)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+42	LineNum(290)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Esparza-peepdf-Slides.pdf
+43	LineNum(293)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Esparza-peepdf-Code.zip
+44	LineNum(297)	int(No File!)	leavingcd.html
+45	LineNum(314)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+46	LineNum(316)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+47	LineNum(319)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+48	LineNum(323)	int(No File!)	leavingcd.html
+49	LineNum(336)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+50	LineNum(338)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+51	LineNum(341)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+52	LineNum(345)	int(No File!)	leavingcd.html
+53	LineNum(366)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+54	LineNum(368)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+55	LineNum(371)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Labunets-Windbgshark-Code.zip
+56	LineNum(375)	int(No File!)	leavingcd.html
+57	LineNum(387)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+58	LineNum(389)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+59	LineNum(392)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Mertens-pastemon.zip
+60	LineNum(394)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Mertens-twittermon.zip
+61	LineNum(398)	int(No File!)	leavingcd.html
+62	LineNum(411)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Ozkan-cvedetails.com.pdf
+63	LineNum(413)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+64	LineNum(416)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+65	LineNum(420)	int(No File!)	leavingcd.html
+66	LineNum(435)	ext(absolute)	http://blog.DidierStevens.com
+67	LineNum(441)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+68	LineNum(443)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+69	LineNum(446)	int(absolute)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Stevens-PDF-Tools.zip
+70	LineNum(450)	int(No File!)	leavingcd.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-briefings.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int( anchor )	#
+19	LineNum(44)	int( anchor )	#apvrille
+20	LineNum(45)	int( anchor )	#guido
+21	LineNum(46)	int( anchor )	#athias
+22	LineNum(47)	int( anchor )	#atlasis
+23	LineNum(48)	int( anchor )	#bailey
+24	LineNum(49)	int( anchor )	#baker
+25	LineNum(50)	int( anchor )	#beery
+26	LineNum(51)	int( anchor )	#belenko
+27	LineNum(52)	int( anchor )	#davis
+28	LineNum(53)	int( anchor )	#vries
+29	LineNum(54)	int( anchor )	#erasmus
+30	LineNum(55)	int( anchor )	#siddharth
+31	LineNum(56)	int( anchor )	#jordon
+32	LineNum(57)	int( anchor )	#guido
+33	LineNum(58)	int( anchor )	#haruyama
+34	LineNum(59)	int( anchor )	#hofmann
+35	LineNum(60)	int( anchor )	#iozzo
+36	LineNum(61)	int( anchor )	#jarmoc
+37	LineNum(62)	int( anchor )	#jordon
+38	LineNum(63)	int( anchor )	#lee
+39	LineNum(64)	int( anchor )	#lindner
+40	LineNum(65)	int( anchor )	#litchfield
+41	LineNum(66)	int( anchor )	#liu
+42	LineNum(67)	int( anchor )	#lord
+43	LineNum(68)	int( anchor )	#los
+44	LineNum(69)	int( anchor )	#lovet
+45	LineNum(70)	int( anchor )	#los
+46	LineNum(71)	int( anchor )	#madou
+47	LineNum(72)	int( anchor )	#rey
+48	LineNum(73)	int( anchor )	#mittal
+49	LineNum(74)	int( anchor )	#nunez
+50	LineNum(75)	int( anchor )	#polstra
+51	LineNum(76)	int( anchor )	#radcliffe
+52	LineNum(77)	int( anchor )	#rajnovic
+53	LineNum(78)	int( anchor )	#rey
+54	LineNum(79)	int( anchor )	#ritter
+55	LineNum(80)	int( anchor )	#roses
+56	LineNum(81)	int( anchor )	#royal
+57	LineNum(82)	int( anchor )	#sasi
+58	LineNum(83)	int( anchor )	#hofmann
+59	LineNum(84)	int( anchor )	#searle
+60	LineNum(85)	int( anchor )	#shah
+61	LineNum(86)	int( anchor )	#siddharth
+62	LineNum(87)	int( anchor )	#sintsov
+63	LineNum(88)	int( anchor )	#belenko
+64	LineNum(89)	int( anchor )	#haruyama
+65	LineNum(90)	int( anchor )	#williams
+66	LineNum(91)	int( anchor )	#wysopal
+67	LineNum(92)	int( anchor )	#yang
+68	LineNum(93)	int( anchor )	#lee
+69	LineNum(97)	int( anchor )	#
+70	LineNum(98)	int( anchor )	#baylor
+71	LineNum(99)	int( anchor )	#fulton
+72	LineNum(100)	int( anchor )	#mittal2
+73	LineNum(101)	int( anchor )	#searle2
+74	LineNum(102)	int( anchor )	#stevens
+75	LineNum(133)	int(File fnd)	bh-eu-12-speaker_bios.html#apvrille
+76	LineNum(134)	int(File fnd)	bh-eu-12-speaker_bios.html#lovet
+77	LineNum(143)	ext(absolute)	https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database
+78	LineNum(145)	int(File fnd)	bh-eu-12-speaker_bios.html#athias
+79	LineNum(152)	int(File fnd)	bh-eu-12-speaker_bios.html#atlasis
+80	LineNum(163)	int(File fnd)	bh-eu-12-speaker_bios.html#bailey
+81	LineNum(195)	int(File fnd)	bh-eu-12-speaker_bios.html#baker
+82	LineNum(214)	int(File fnd)	bh-eu-12-speaker_bios.html#beery
+83	LineNum(223)	int(File fnd)	bh-eu-12-speaker_bios.html#belenko
+84	LineNum(224)	int(File fnd)	bh-eu-12-speaker_bios.html#sklyarov
+85	LineNum(234)	int(File fnd)	bh-eu-12-speaker_bios.html#davis
+86	LineNum(253)	int(File fnd)	bh-eu-12-speaker_bios.html#vries
+87	LineNum(271)	int(File fnd)	bh-eu-12-speaker_bios.html#erasmus
+88	LineNum(281)	int(File fnd)	bh-eu-12-speaker_bios.html#guido
+89	LineNum(282)	int(File fnd)	bh-eu-12-speaker_bios.html#arpaia
+90	LineNum(293)	int(File fnd)	bh-eu-12-speaker_bios.html#haruyama
+91	LineNum(294)	int(File fnd)	bh-eu-12-speaker_bios.html#suzuki
+92	LineNum(304)	int(File fnd)	bh-eu-12-speaker_bios.html#hofmann
+93	LineNum(305)	int(File fnd)	bh-eu-12-speaker_bios.html#schoen
+94	LineNum(314)	int(File fnd)	bh-eu-12-speaker_bios.html#iozzo
+95	LineNum(323)	int(File fnd)	bh-eu-12-speaker_bios.html#jarmoc
+96	LineNum(333)	int(File fnd)	bh-eu-12-speaker_bios.html#jordon
+97	LineNum(334)	int(File fnd)	bh-eu-12-speaker_bios.html#forshaw
+98	LineNum(345)	int(File fnd)	bh-eu-12-speaker_bios.html#lee
+99	LineNum(346)	int(File fnd)	bh-eu-12-speaker_bios.html#yee
+100	LineNum(355)	int(File fnd)	bh-eu-12-speaker_bios.html#lindner
+101	LineNum(362)	int(File fnd)	bh-eu-12-speaker_bios.html#litchfield
+102	LineNum(369)	int(File fnd)	bh-eu-12-speaker_bios.html#lord
+103	LineNum(381)	int(File fnd)	bh-eu-12-speaker_bios.html#los
+104	LineNum(382)	int(File fnd)	bh-eu-12-speaker_bios.html#macdougall
+105	LineNum(398)	int(File fnd)	bh-eu-12-speaker_bios.html#lovet
+106	LineNum(399)	int(File fnd)	bh-eu-12-speaker_bios.html#liu
+107	LineNum(408)	int(File fnd)	bh-eu-12-speaker_bios.html#madou
+108	LineNum(417)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+109	LineNum(435)	int(File fnd)	bh-eu-12-speaker_bios.html#nunez
+110	LineNum(446)	int(File fnd)	bh-eu-12-speaker_bios.html#polstra
+111	LineNum(458)	int(File fnd)	bh-eu-12-speaker_bios.html#radcliffe
+112	LineNum(466)	int(File fnd)	bh-eu-12-speaker_bios.html#rajnovic
+113	LineNum(477)	int(File fnd)	bh-eu-12-speaker_bios.html#rey
+114	LineNum(478)	int(File fnd)	bh-eu-12-speaker_bios.html#mende
+115	LineNum(487)	int(File fnd)	bh-eu-12-speaker_bios.html#ritter
+116	LineNum(496)	int(File fnd)	bh-eu-12-speaker_bios.html#roses
+117	LineNum(504)	int(File fnd)	bh-eu-12-speaker_bios.html#royal
+118	LineNum(511)	int(File fnd)	bh-eu-12-speaker_bios.html#sasi
+119	LineNum(518)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+120	LineNum(539)	int(File fnd)	bh-eu-12-speaker_bios.html#shah
+121	LineNum(547)	int(File fnd)	bh-eu-12-speaker_bios.html#siddharth
+122	LineNum(548)	int(File fnd)	bh-eu-12-speaker_bios.html#forbes
+123	LineNum(556)	int(File fnd)	bh-eu-12-speaker_bios.html#sintsov
+124	LineNum(564)	int(File fnd)	bh-eu-12-speaker_bios.html#stevens
+125	LineNum(573)	int(File fnd)	bh-eu-12-speaker_bios.html#williams
+126	LineNum(581)	int(File fnd)	bh-eu-12-speaker_bios.html#wysopal
+127	LineNum(589)	int(File fnd)	bh-eu-12-speaker_bios.html#yang
+128	LineNum(606)	int(File fnd)	bh-eu-12-speaker_bios.html#baylor
+129	LineNum(613)	int(File fnd)	bh-eu-12-speaker_bios.html#fulton
+130	LineNum(622)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+131	LineNum(631)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+132	LineNum(636)	int(File fnd)	../../index.html
+133	LineNum(637)	int(File fnd)	../archives.html
+134	LineNum(638)	int(File fnd)	../community.html
+135	LineNum(639)	int(File fnd)	../about.html
+136	LineNum(640)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-comarketing.html"
+1	LineNum(6)	int(File fnd)	../../images/favicon.ico
+2	LineNum(8)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(20)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(24)	int(absolute)	https://www.blackhat.com
+5	LineNum(25)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(26)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(28)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(29)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(30)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(31)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(33)	int(No File!)	bh-eu-12-press.html
+13	LineNum(34)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(42)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(43)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(44)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(45)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(52)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(54)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(55)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(57)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(58)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(59)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(71)	int( anchor )	#resources
+25	LineNum(72)	int( anchor )	#email
+26	LineNum(73)	int( anchor )	#pr
+27	LineNum(74)	int( anchor )	#twitter
+28	LineNum(75)	int( anchor )	#facebook
+29	LineNum(76)	int( anchor )	#linkedin
+30	LineNum(77)	int( anchor )	#contact
+31	LineNum(87)	int(No File!)	bh-eu-12/bh-eu-12-event-resources.html
+32	LineNum(91)	ext(absolute)	http://www.exhibitorinvites.com/blackhateurope
+33	LineNum(116)	ext(absolute)	http://www.exhibitorinvites.com/blackhateurope
+34	LineNum(134)	int(File fnd)	../sponsors_pr.html
+35	LineNum(165)	ext(absolute)	http://www.linkedin.com/groups?gid=37658
+36	LineNum(178)	int(absolute)	https://www.blackhat.com
+37	LineNum(179)	int(File fnd)	../archives.html
+38	LineNum(180)	int(File fnd)	../community.html
+39	LineNum(181)	int(File fnd)	../sponsors.html
+40	LineNum(182)	int(File fnd)	../about.html
+41	LineNum(183)	int(File fnd)	../contact.html
+42	LineNum(188)	ext(absolute)	http://www.techweb.com/aboutus
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-event-resources.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(41)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(43)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(44)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(46)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(47)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(48)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(81)	int(File fnd)	../../images/bh-eu-12/bh-eu-12-WebTiles.zip
+25	LineNum(103)	int(File fnd)	../../images/bh-eu-12/bheu12_logo_1011x568.zip
+26	LineNum(108)	int(File fnd)	../../index.html
+27	LineNum(109)	int(File fnd)	../archives.html
+28	LineNum(110)	int(File fnd)	../community.html
+29	LineNum(111)	int(File fnd)	../about.html
+30	LineNum(112)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-home.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(12)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(16)	int(absolute)	https://www.blackhat.com
+5	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(18)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(19)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(20)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(21)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(22)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(23)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(25)	int(No File!)	bh-eu-12-press.html
+13	LineNum(26)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(32)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(33)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(34)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(35)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(40)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(42)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(43)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(45)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(46)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(47)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(64)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+25	LineNum(66)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+26	LineNum(80)	int(File fnd)	bh-eu-12-arsenal.html#schedule
+27	LineNum(81)	int(File fnd)	bh-eu-12-home.html
+28	LineNum(83)	int(File fnd)	bh-eu-12-arsenal.html#Kalra
+29	LineNum(84)	int(File fnd)	bh-eu-12-arsenal.html#Forbes
+30	LineNum(85)	int(File fnd)	bh-eu-12-arsenal.html#Breedijk
+31	LineNum(86)	int(File fnd)	bh-eu-12-arsenal.html#Stevens
+32	LineNum(87)	int(File fnd)	bh-eu-12-arsenal.html#Mertens
+33	LineNum(88)	int(File fnd)	bh-eu-12-arsenal.html#Esparza
+34	LineNum(89)	int(File fnd)	bh-eu-12-arsenal.html#Labunets
+35	LineNum(90)	int(File fnd)	bh-eu-12-arsenal.html#Ozkan
+36	LineNum(91)	int(File fnd)	bh-eu-12-arsenal.html#Jordon
+37	LineNum(93)	int(File fnd)	bh-eu-12-arsenal.html#schedule
+38	LineNum(94)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+39	LineNum(100)	int(File fnd)	bh-eu-12-specialevents.html
+40	LineNum(104)	int(File fnd)	bh-eu-12-arsenal.html
+41	LineNum(106)	int(File fnd)	../../docs/bh-eu-12/bh-eu-12-SOK_sale_sheet.pdf
+42	LineNum(107)	int(File fnd)	bh-eu-12-sponsors.html
+43	LineNum(113)	int(File fnd)	training/courses/bh-eu-12-training_meyers-cyber.html
+44	LineNum(114)	int(File fnd)	training/courses/bh-eu-12-training_mm-isc.html
+45	LineNum(115)	int(File fnd)	training/courses/bh-eu-12-training_hotwan-mobile.html
+46	LineNum(140)	ext(absolute)	https://www.facebook.com/blackhat
+47	LineNum(141)	ext(absolute)	https://twitter.com/BlackHatEvents
+48	LineNum(142)	ext(absolute)	https://www.linkedin.com/groups?gid=37658
+49	LineNum(143)	ext(absolute)	http://www.flickr.com/photos/blackhatevents/
+50	LineNum(149)	ext(absolute)	http://twitter.com/#!/BlackHatEvents
+51	LineNum(154)	ext(absolute)	http://twitter.com/#!/BlackHatHQ
+52	LineNum(163)	int(File fnd)	../../index.html
+53	LineNum(164)	int(File fnd)	../archives.html
+54	LineNum(165)	int(File fnd)	../community.html
+55	LineNum(166)	int(File fnd)	../about.html
+56	LineNum(167)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-schedule.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(22)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(23)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(24)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(25)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(27)	int(No File!)	bh-eu-12-press.html
+13	LineNum(28)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(34)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(35)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(36)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(38)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(117)	int(File fnd)	bh-eu-12-speaker_bios.html#bailey
+19	LineNum(121)	int(File fnd)	bh-eu-12-speaker_bios.html#shah
+20	LineNum(124)	int(File fnd)	bh-eu-12-speaker_bios.html#stevens
+21	LineNum(138)	int(File fnd)	bh-eu-12-speaker_bios.html#ritter
+22	LineNum(141)	int(File fnd)	bh-eu-12-speaker_bios.html#jarmoc
+23	LineNum(145)	int(File fnd)	bh-eu-12-speaker_bios.html#stevens
+24	LineNum(158)	int(File fnd)	bh-eu-12-speaker_bios.html#davis
+25	LineNum(162)	int(File fnd)	bh-eu-12-speaker_bios.html#beery
+26	LineNum(165)	int(File fnd)	bh-eu-12-speaker_bios.html#baylor
+27	LineNum(179)	int(File fnd)	bh-eu-12-speaker_bios.html#iozzo
+28	LineNum(182)	int(File fnd)	bh-eu-12-speaker_bios.html#vries
+29	LineNum(186)	int(File fnd)	bh-eu-12-speaker_bios.html#baylor
+30	LineNum(199)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+31	LineNum(203)	int(File fnd)	bh-eu-12-speaker_bios.html#forbes
+32	LineNum(206)	int(File fnd)	bh-eu-12-speaker_bios.html#baker
+33	LineNum(267)	int(File fnd)	bh-eu-12-speaker_bios.html#radcliffe
+34	LineNum(271)	int(File fnd)	bh-eu-12-speaker_bios.html#macdougall
+35	LineNum(274)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+36	LineNum(288)	int(File fnd)	bh-eu-12-speaker_bios.html#schoen
+37	LineNum(291)	int(File fnd)	bh-eu-12-speaker_bios.html#mende
+38	LineNum(295)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+39	LineNum(308)	int(File fnd)	bh-eu-12-speaker_bios.html#litchfield
+40	LineNum(312)	int(File fnd)	bh-eu-12-speaker_bios.html#williams
+41	LineNum(315)	int(File fnd)	bh-eu-12-speaker_bios.html#searle
+42	LineNum(329)	int(File fnd)	bh-eu-12-speaker_bios.html#wysopal
+43	LineNum(332)	int(File fnd)	bh-eu-12-speaker_bios.html#nunez
+44	LineNum(336)	int(File fnd)	bh-eu-12-speaker_bios.html#fulton
+45	LineNum(349)	int(File fnd)	bh-eu-12-speaker_bios.html#lovet
+46	LineNum(353)	int(File fnd)	bh-eu-12-speaker_bios.html#atlasis
+47	LineNum(356)	int(File fnd)	bh-eu-12-speaker_bios.html#fulton
+48	LineNum(370)	int(File fnd)	bh-eu-12-speaker_bios.html#rajnovic
+49	LineNum(373)	int(File fnd)	bh-eu-12-speaker_bios.html#madou
+50	LineNum(377)	int(File fnd)	bh-eu-12-speaker_bios.html#fulton
+51	LineNum(430)	int(File fnd)	bh-eu-12-speaker_bios.html#sklyarov
+52	LineNum(433)	int(File fnd)	bh-eu-12-speaker_bios.html#yang
+53	LineNum(437)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+54	LineNum(450)	int(File fnd)	bh-eu-12-speaker_bios.html#lindner
+55	LineNum(454)	int(File fnd)	bh-eu-12-speaker_bios.html#royal
+56	LineNum(457)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+57	LineNum(471)	int(File fnd)	bh-eu-12-speaker_bios.html#arpaia
+58	LineNum(474)	int(File fnd)	bh-eu-12-speaker_bios.html#yee
+59	LineNum(478)	int(File fnd)	bh-eu-12-speaker_bios.html#mittal
+60	LineNum(491)	int(File fnd)	bh-eu-12-speaker_bios.html#erasmus
+61	LineNum(495)	int(File fnd)	bh-eu-12-speaker_bios.html#forshaw
+62	LineNum(498)	int(File fnd)	bh-eu-12-speaker_bios.html#polstra
+63	LineNum(512)	int(File fnd)	bh-eu-12-speaker_bios.html#roses
+64	LineNum(515)	int(File fnd)	bh-eu-12-speaker_bios.html#liu
+65	LineNum(519)	int(File fnd)	bh-eu-12-speaker_bios.html#lord
+66	LineNum(532)	int(File fnd)	bh-eu-12-speaker_bios.html#haruyama
+67	LineNum(536)	int(File fnd)	bh-eu-12-speaker_bios.html#sintsov
+68	LineNum(539)	int(File fnd)	bh-eu-12-speaker_bios.html#sasi
+69	LineNum(548)	int(File fnd)	../../index.html
+70	LineNum(549)	int(File fnd)	../archives.html
+71	LineNum(550)	int(File fnd)	../community.html
+72	LineNum(551)	int(File fnd)	../about.html
+73	LineNum(552)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-speaker-resources.html"
+1	LineNum(6)	int(File fnd)	../../images/favicon.ico
+2	LineNum(8)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(21)	int(absolute)	https://www.blackhat.com
+5	LineNum(22)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(23)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(24)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(25)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(26)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(27)	int(File fnd)	bh-eu-12-venue.html
+11	LineNum(29)	int(No File!)	bh-eu-12-press.html
+12	LineNum(30)	int(File fnd)	bh-eu-12-archives.html
+13	LineNum(36)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+14	LineNum(37)	ext(absolute)	https://twitter.com/BlackHatEvents
+15	LineNum(38)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+16	LineNum(39)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+17	LineNum(44)	int(File fnd)	registration/bh-eu-12-registration.html
+18	LineNum(46)	int(File fnd)	registration/bh-eu-12-registration_group.html
+19	LineNum(47)	int(File fnd)	registration/bh-eu-12-registration_press.html
+20	LineNum(49)	int(File fnd)	registration/bh-eu-12-cfp.html
+21	LineNum(50)	int(File fnd)	registration/bh-eu-12-cfwk.html
+22	LineNum(51)	int(File fnd)	bh-eu-12-event-resources.html
+23	LineNum(73)	int(absolute)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-cfp_terms.html
+24	LineNum(74)	int(File fnd)	../../docs/bh-eu-12/speakers/speaker-agreement-EU12.pdf
+25	LineNum(75)	int(File fnd)	../../docs/bh-eu-12/speakers/W8-ben.pdf
+26	LineNum(76)	int(File fnd)	../../docs/bh-eu-12/speakers/w9.pdf
+27	LineNum(77)	int(File fnd)	../../docs/bh-eu-12/speakers/WireForm.pdf
+28	LineNum(86)	int(File fnd)	../../docs/bh-eu-12/speakers/bh-eu-12-pptslides.pptx
+29	LineNum(92)	ext(absolute)	http://www.beanactuary.org/counselors/speakit/tips.cfm
+30	LineNum(94)	ext(absolute)	http://www.techedevents.org/2004/speaker_resources/HelpfulTips.asp
+31	LineNum(96)	ext(absolute)	http://www.biogeek.com/pages/presentation%20hints&tips.html
+32	LineNum(98)	ext(absolute)	http://writingcenter.tamu.edu/2010/consultant-resources/level-2-projectsspring2010/helpful-presentation-tips-for-all-workshops/
+33	LineNum(100)	ext(absolute)	http://www.voices.com/articles/general-voice-over-topics/guide-to-public-speaking.html
+34	LineNum(102)	ext(absolute)	http://www.presentationzen.com/presentationzen/2010/08/a-long-time-ago-before-death-by-powerpoint.html
+35	LineNum(104)	ext(absolute)	http://www.garrreynolds.com/Presentation/index.html
+36	LineNum(106)	ext(absolute)	http://www.garrreynolds.com/Presentation/delivery.html
+37	LineNum(113)	int(File fnd)	../../docs/bh-us-11/speakers/BlackHat-USA-2010-Becherer-Andrew-Hadoop-Security-wp.pdf
+38	LineNum(119)	int(File fnd)	../../docs/bh-us-11/speakers/BlackHat-USA-2010-Hoff-Cloudinomicon-slides.pdf
+39	LineNum(120)	int(File fnd)	../../docs/bh-us-11/speakers/BlackHat-USA-2010-Becherer-Andrew-Hadoop-Security-slides.pdf
+40	LineNum(170)	int(absolute)	https://www.blackhat.com/html/press.html
+41	LineNum(179)	int(File fnd)	../../index.html
+42	LineNum(180)	int(File fnd)	../archives.html
+43	LineNum(181)	int(File fnd)	../community.html
+44	LineNum(182)	int(File fnd)	../about.html
+45	LineNum(183)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-speaker_bios.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int( anchor )	#
+19	LineNum(44)	int( anchor )	#
+20	LineNum(45)	int( anchor )	#apvrille
+21	LineNum(46)	int(No File!)	arpaia
+22	LineNum(47)	int( anchor )	#athias
+23	LineNum(48)	int( anchor )	#atlasis
+24	LineNum(49)	int( anchor )	#bailey
+25	LineNum(50)	int( anchor )	#baker
+26	LineNum(51)	int( anchor )	#beery
+27	LineNum(52)	int( anchor )	#belenko
+28	LineNum(53)	int( anchor )	#davis
+29	LineNum(54)	int( anchor )	#vries
+30	LineNum(55)	int( anchor )	#erasmus
+31	LineNum(56)	int( anchor )	#forbes
+32	LineNum(57)	int( anchor )	#forshaw
+33	LineNum(58)	int( anchor )	#guido
+34	LineNum(59)	int( anchor )	#haruyama
+35	LineNum(60)	int( anchor )	#hofmann
+36	LineNum(61)	int( anchor )	#iozzo
+37	LineNum(62)	int( anchor )	#jarmoc
+38	LineNum(63)	int( anchor )	#jordon
+39	LineNum(64)	int( anchor )	#lee
+40	LineNum(65)	int( anchor )	#lindner
+41	LineNum(66)	int( anchor )	#litchfield
+42	LineNum(67)	int( anchor )	#liu
+43	LineNum(68)	int( anchor )	#lord
+44	LineNum(69)	int( anchor )	#los
+45	LineNum(70)	int( anchor )	#lovet
+46	LineNum(71)	int( anchor )	#madou
+47	LineNum(72)	int( anchor )	#mende
+48	LineNum(73)	int( anchor )	#mittal
+49	LineNum(74)	int( anchor )	#nunez
+50	LineNum(75)	int( anchor )	#polstra
+51	LineNum(76)	int( anchor )	#radcliffe
+52	LineNum(77)	int( anchor )	#rajnovic
+53	LineNum(78)	int( anchor )	#rey
+54	LineNum(79)	int( anchor )	#ritter
+55	LineNum(80)	int( anchor )	#roses
+56	LineNum(81)	int( anchor )	#royal
+57	LineNum(82)	int( anchor )	#sasi
+58	LineNum(83)	int( anchor )	#schoen
+59	LineNum(84)	int( anchor )	#searle
+60	LineNum(85)	int( anchor )	#shah
+61	LineNum(86)	int( anchor )	#siddharth
+62	LineNum(87)	int( anchor )	#sintsov
+63	LineNum(88)	int( anchor )	#sklyarov
+64	LineNum(89)	int( anchor )	#suzuki
+65	LineNum(90)	int( anchor )	#williams
+66	LineNum(91)	int( anchor )	#wysopal
+67	LineNum(92)	int( anchor )	#yang
+68	LineNum(93)	int( anchor )	#yee
+69	LineNum(97)	int( anchor )	#
+70	LineNum(98)	int( anchor )	#baylor
+71	LineNum(99)	int( anchor )	#fulton
+72	LineNum(100)	int( anchor )	#ramachandran
+73	LineNum(101)	int( anchor )	#stevens
+74	LineNum(194)	ext(absolute)	http://ru.linkedin.com/in/belenko
+75	LineNum(318)	ext(absolute)	http://hp.com/go/white-rabbit
+76	LineNum(417)	ext(absolute)	http://ritter.vg
+77	LineNum(427)	ext(absolute)	http://www.simonroses.com
+78	LineNum(439)	ext(absolute)	http://www.Garage4Hackers.com
+79	LineNum(466)	ext(absolute)	http://www.notsosecure.com
+80	LineNum(485)	ext(absolute)	http://blog.DidierStevens.com
+81	LineNum(523)	int(File fnd)	../../index.html
+82	LineNum(524)	int(File fnd)	../archives.html
+83	LineNum(525)	int(File fnd)	../community.html
+84	LineNum(526)	int(File fnd)	../about.html
+85	LineNum(527)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-specialevents.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(12)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(16)	int(absolute)	https://www.blackhat.com
+5	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(18)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(19)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(20)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(21)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(22)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(23)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(25)	int(No File!)	bh-eu-12-press.html
+13	LineNum(26)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(32)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(33)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(34)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(35)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(40)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(42)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(43)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(45)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(46)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(47)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(63)	int(File fnd)	registration/bh-eu-12-registration.html
+25	LineNum(77)	int(File fnd)	bh-eu-12-arsenal.html
+26	LineNum(83)	int(File fnd)	bh-eu-12-arsenal.html
+27	LineNum(87)	int(File fnd)	registration/bh-eu-12-cfwk.html
+28	LineNum(98)	int(File fnd)	../../docs/bh-eu-12/bh-eu-12-SOK_sale_sheet.pdf
+29	LineNum(107)	int(File fnd)	bh-eu-12-sponsors.html
+30	LineNum(114)	int(File fnd)	../../index.html
+31	LineNum(115)	int(File fnd)	../archives.html
+32	LineNum(116)	int(File fnd)	../community.html
+33	LineNum(117)	int(File fnd)	../about.html
+34	LineNum(118)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-sponsors.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(44)	int( anchor )	#Diamond
+19	LineNum(45)	int( anchor )	#Platinum
+20	LineNum(46)	int( anchor )	#Gold
+21	LineNum(47)	int( anchor )	#Media
+22	LineNum(68)	ext(absolute)	http://www.fortinet.com
+23	LineNum(87)	ext(absolute)	http://www.paloaltonetworks.com/
+24	LineNum(92)	ext(absolute)	http://www.paloaltonetworks.com/
+25	LineNum(96)	ext(absolute)	http://www.netwitness.com
+26	LineNum(99)	ext(absolute)	http://www.netwitness.com
+27	LineNum(103)	ext(absolute)	http://www.rune.sg/
+28	LineNum(105)	ext(absolute)	http://www.rune.sg/
+29	LineNum(111)	ext(absolute)	http://www.accuvant.com/
+30	LineNum(116)	ext(absolute)	http://www.accuvant.com/
+31	LineNum(120)	ext(absolute)	http://www.codenomicon.com/
+32	LineNum(131)	ext(absolute)	http://www.coresecurity.com/
+33	LineNum(136)	ext(absolute)	http://www.coresecurity.com
+34	LineNum(140)	ext(absolute)	http://www.elcomsoft.com/
+35	LineNum(143)	ext(absolute)	http://www.elcomsoft.com/
+36	LineNum(147)	ext(absolute)	http://www.microsoft.com/security
+37	LineNum(152)	ext(absolute)	http://www.microsoft.com/security
+38	LineNum(156)	ext(absolute)	http://www.ncircle.com
+39	LineNum(158)	ext(absolute)	http://ncircle.com
+40	LineNum(162)	ext(absolute)	http://www.norman.com
+41	LineNum(164)	ext(absolute)	http://www.norman.com/
+42	LineNum(169)	ext(absolute)	http://www.qualys.com
+43	LineNum(177)	int(No File!)	www.qualys.com
+44	LineNum(181)	ext(absolute)	http://www.sonicwall.com
+45	LineNum(183)	ext(absolute)	https://workplace.sonicwall.com/go/www.sonicwall.com/
+46	LineNum(188)	ext(absolute)	http://www.ssh.com
+47	LineNum(195)	ext(absolute)	http://www.ssh.com
+48	LineNum(198)	ext(absolute)	http://www.veracode.com/
+49	LineNum(200)	ext(absolute)	http://www.veracode.com/
+50	LineNum(204)	ext(absolute)	https://www.owasp.org
+51	LineNum(210)	int(File fnd)	../../index.html
+52	LineNum(211)	int(File fnd)	../archives.html
+53	LineNum(212)	int(File fnd)	../community.html
+54	LineNum(213)	int(File fnd)	../about.html
+55	LineNum(214)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/bh-eu-12-venue.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(41)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(43)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(44)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(46)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(47)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(48)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(59)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+25	LineNum(82)	ext(absolute)	http://www.nh-hotels.com/events/en/event-detail/13342/ubm_techweb.html
+26	LineNum(91)	int(File fnd)	../../index.html
+27	LineNum(92)	int(File fnd)	../archives.html
+28	LineNum(93)	int(File fnd)	../community.html
+29	LineNum(94)	int(File fnd)	../about.html
+30	LineNum(95)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/index.html"
+1	LineNum(5)	int(File fnd)	../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../css/eu-12-style.css
+3	LineNum(12)	int(File fnd)	bh-eu-12-home.html
+4	LineNum(16)	int(absolute)	https://www.blackhat.com
+5	LineNum(17)	int(File fnd)	bh-eu-12-home.html
+6	LineNum(18)	int(File fnd)	training/bh-eu-12-training_complete.html
+7	LineNum(19)	int(File fnd)	bh-eu-12-archives.html
+8	LineNum(20)	int(File fnd)	bh-eu-12-schedule.html
+9	LineNum(21)	int(File fnd)	bh-eu-12-sponsors.html
+10	LineNum(22)	int(File fnd)	bh-eu-12-arsenal.html
+11	LineNum(23)	int(File fnd)	bh-eu-12-venue.html
+12	LineNum(25)	int(No File!)	bh-eu-12-press.html
+13	LineNum(26)	int(File fnd)	bh-eu-12-archives.html
+14	LineNum(32)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(33)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(34)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(35)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(40)	int(File fnd)	registration/bh-eu-12-registration.html
+19	LineNum(42)	int(File fnd)	registration/bh-eu-12-registration_group.html
+20	LineNum(43)	int(File fnd)	registration/bh-eu-12-registration_press.html
+21	LineNum(45)	int(File fnd)	registration/bh-eu-12-cfp.html
+22	LineNum(46)	int(File fnd)	registration/bh-eu-12-cfwk.html
+23	LineNum(47)	int(File fnd)	bh-eu-12-event-resources.html
+24	LineNum(64)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+25	LineNum(66)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+26	LineNum(80)	int(File fnd)	bh-eu-12-arsenal.html#schedule
+27	LineNum(81)	int(File fnd)	bh-eu-12-home.html
+28	LineNum(83)	int(File fnd)	bh-eu-12-arsenal.html#Kalra
+29	LineNum(84)	int(File fnd)	bh-eu-12-arsenal.html#Forbes
+30	LineNum(85)	int(File fnd)	bh-eu-12-arsenal.html#Breedijk
+31	LineNum(86)	int(File fnd)	bh-eu-12-arsenal.html#Stevens
+32	LineNum(87)	int(File fnd)	bh-eu-12-arsenal.html#Mertens
+33	LineNum(88)	int(File fnd)	bh-eu-12-arsenal.html#Esparza
+34	LineNum(89)	int(File fnd)	bh-eu-12-arsenal.html#Labunets
+35	LineNum(90)	int(File fnd)	bh-eu-12-arsenal.html#Ozkan
+36	LineNum(91)	int(File fnd)	bh-eu-12-arsenal.html#Jordon
+37	LineNum(93)	int(File fnd)	bh-eu-12-arsenal.html#schedule
+38	LineNum(94)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+39	LineNum(100)	int(File fnd)	bh-eu-12-specialevents.html
+40	LineNum(104)	int(File fnd)	bh-eu-12-arsenal.html
+41	LineNum(106)	int(File fnd)	../../docs/bh-eu-12/bh-eu-12-SOK_sale_sheet.pdf
+42	LineNum(107)	int(File fnd)	bh-eu-12-sponsors.html
+43	LineNum(113)	int(File fnd)	training/courses/bh-eu-12-training_meyers-cyber.html
+44	LineNum(114)	int(File fnd)	training/courses/bh-eu-12-training_mm-isc.html
+45	LineNum(115)	int(File fnd)	training/courses/bh-eu-12-training_hotwan-mobile.html
+46	LineNum(140)	ext(absolute)	https://www.facebook.com/blackhat
+47	LineNum(141)	ext(absolute)	https://twitter.com/BlackHatEvents
+48	LineNum(142)	ext(absolute)	https://www.linkedin.com/groups?gid=37658
+49	LineNum(143)	ext(absolute)	http://www.flickr.com/photos/blackhatevents/
+50	LineNum(149)	ext(absolute)	http://twitter.com/#!/BlackHatEvents
+51	LineNum(154)	ext(absolute)	http://twitter.com/#!/BlackHatHQ
+52	LineNum(163)	int(File fnd)	../../index.html
+53	LineNum(164)	int(File fnd)	../archives.html
+54	LineNum(165)	int(File fnd)	../community.html
+55	LineNum(166)	int(File fnd)	../about.html
+56	LineNum(167)	int(File fnd)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-cfp.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(61)	int(File fnd)	bh-eu-12-cfp_terms.html
+25	LineNum(73)	int( anchor )	#
+26	LineNum(97)	int(absolute)	https://cfp.blackhat.com/
+27	LineNum(101)	int(absolute)	https://cfp.blackhat.com/
+28	LineNum(131)	int(absolute)	http://www.blackhat.com
+29	LineNum(153)	int(absolute)	https://www.blackhat.com/
+30	LineNum(160)	int(File fnd)	../../../index.html
+31	LineNum(161)	int(File fnd)	../../archives.html
+32	LineNum(162)	int(File fnd)	../../community.html
+33	LineNum(163)	int(File fnd)	../../about.html
+34	LineNum(164)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-cfp_terms.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(205)	int(File fnd)	../../../index.html
+25	LineNum(206)	int(File fnd)	../../archives.html
+26	LineNum(207)	int(File fnd)	../../community.html
+27	LineNum(208)	int(File fnd)	../../about.html
+28	LineNum(209)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-cfwk.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(76)	int(absolute)	https://cfp.blackhat.com
+25	LineNum(80)	int(File fnd)	../../../index.html
+26	LineNum(81)	int(File fnd)	../../archives.html
+27	LineNum(82)	int(File fnd)	../../community.html
+28	LineNum(83)	int(File fnd)	../../about.html
+29	LineNum(84)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(59)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations
+25	LineNum(84)	int(absolute)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_terms.html
+26	LineNum(92)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-ccchange.pdf
+27	LineNum(93)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-creditcardpayment.pdf
+28	LineNum(94)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf 
+29	LineNum(95)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-substitute.pdf
+30	LineNum(96)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-wiretransfer.pdf
+31	LineNum(97)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-addclass.pdf
+32	LineNum(98)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-classchange.pdf
+33	LineNum(113)	int(No File!)	../../index.html
+34	LineNum(114)	int(No File!)	../archives.html
+35	LineNum(115)	int(No File!)	../community.html
+36	LineNum(116)	int(No File!)	../about.html
+37	LineNum(117)	int(No File!)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_group.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(14)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(18)	int(absolute)	https://www.blackhat.com
+5	LineNum(19)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(20)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(21)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(22)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(23)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(24)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(25)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(27)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(28)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(34)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(35)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(36)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(37)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(67)	int(File fnd)	../../../docs/bh-eu-12/registration/bh-eu-12-groupreg.pdf
+25	LineNum(83)	int(File fnd)	../../../docs/bh-eu-12/registration/bh-eu-12-groupreg.pdf
+26	LineNum(89)	int(absolute)	http://www.blackhat.com
+27	LineNum(94)	int(File fnd)	../../../index.html
+28	LineNum(95)	int(File fnd)	../../archives.html
+29	LineNum(96)	int(File fnd)	../../community.html
+30	LineNum(97)	int(File fnd)	../../press.html
+31	LineNum(98)	int(File fnd)	../../about.html
+32	LineNum(99)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_press.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(14)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(18)	int(absolute)	https://www.blackhat.com
+5	LineNum(19)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(20)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(21)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(22)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(23)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(24)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(25)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(27)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(28)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(34)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(35)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(36)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(37)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(73)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/index/registrations/BHEUPR3215
+25	LineNum(81)	int(File fnd)	../../../index.html
+26	LineNum(82)	int(File fnd)	../../archives.html
+27	LineNum(83)	int(File fnd)	../../community.html
+28	LineNum(84)	int(File fnd)	../../press.html
+29	LineNum(85)	int(File fnd)	../../about.html
+30	LineNum(86)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_terms.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../training/bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(42)	int(File fnd)	bh-eu-12-registration.html
+19	LineNum(44)	int(File fnd)	bh-eu-12-registration_group.html
+20	LineNum(45)	int(File fnd)	bh-eu-12-registration_press.html
+21	LineNum(47)	int(File fnd)	bh-eu-12-cfp.html
+22	LineNum(48)	int(File fnd)	bh-eu-12-cfwk.html
+23	LineNum(49)	int(File fnd)	../bh-eu-12-event-resources.html
+24	LineNum(82)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+25	LineNum(83)	int(absolute)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_terms.html#substitutions
+26	LineNum(85)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+27	LineNum(87)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+28	LineNum(94)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+29	LineNum(173)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-wiretransfer.pdf
+30	LineNum(177)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-creditcardpayment.pdf
+31	LineNum(181)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-ccchange.pdf
+32	LineNum(218)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+33	LineNum(221)	int(absolute)	https://www.blackhat.com/docs/admin/bh-registration_W9.pdf
+34	LineNum(222)	int(absolute)	https://www.blackhat.com/docs/admin/bh-registration_W8.pdf
+35	LineNum(223)	int(absolute)	https://www.blackhat.com/docs/admin/bh-registration_W9.pdf
+36	LineNum(231)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-substitute.pdf
+37	LineNum(260)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+38	LineNum(266)	int(absolute)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-classchange.pdf
+39	LineNum(288)	int(absolute)	http://www.blackhat.com 
+40	LineNum(304)	int(No File!)	../../index.html
+41	LineNum(305)	int(No File!)	../archives.html
+42	LineNum(306)	int(No File!)	../community.html
+43	LineNum(307)	int(No File!)	../about.html
+44	LineNum(308)	int(No File!)	../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/training/bh-eu-12-training_complete.html"
+1	LineNum(5)	int(File fnd)	../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int(File fnd)	bh-eu-12-training_complete.html
+19	LineNum(46)	int(No File!)	bh-eu-12-training_schedule.html
+20	LineNum(62)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE01
+21	LineNum(79)	int(File fnd)	courses/bh-eu-12-training_meyers-cyber.html
+22	LineNum(92)	int(File fnd)	courses/bh-eu-12-training_mm-isc.html
+23	LineNum(105)	int(File fnd)	courses/bh-eu-12-training_hotwan-mobile.html
+24	LineNum(116)	int(File fnd)	../../../index.html
+25	LineNum(117)	int(File fnd)	../../archives.html
+26	LineNum(118)	int(File fnd)	../../community.html
+27	LineNum(119)	int(File fnd)	../../about.html
+28	LineNum(120)	int(File fnd)	../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/training/courses/bh-eu-12-training_hotwan-mobile.html"
+1	LineNum(5)	int(File fnd)	../../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int(File fnd)	../bh-eu-12-training_complete.html
+19	LineNum(48)	int(No File!)	bh-ad-11-training_schedule.html
+20	LineNum(69)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE04
+21	LineNum(176)	int(File fnd)	../../../../index.html
+22	LineNum(177)	int(File fnd)	../../../archives.html
+23	LineNum(178)	int(File fnd)	../../../community.html
+24	LineNum(179)	int(File fnd)	../../../about.html
+25	LineNum(180)	int(File fnd)	../../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/training/courses/bh-eu-12-training_meyers-cyber.html"
+1	LineNum(5)	int(File fnd)	../../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int(File fnd)	../bh-eu-12-training_complete.html
+19	LineNum(48)	int(No File!)	bh-ad-11-training_schedule.html
+20	LineNum(66)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE02
+21	LineNum(157)	int(File fnd)	../../../../index.html
+22	LineNum(158)	int(File fnd)	../../../archives.html
+23	LineNum(159)	int(File fnd)	../../../community.html
+24	LineNum(160)	int(File fnd)	../../../about.html
+25	LineNum(161)	int(File fnd)	../../../contact.html
+
+
+file: "/Library/WebServer/Documents/www.blackhat.com/html/bh-eu-12/training/courses/bh-eu-12-training_mm-isc.html"
+1	LineNum(5)	int(File fnd)	../../../../images/favicon.ico
+2	LineNum(6)	int(File fnd)	../../../../css/eu-12-style.css
+3	LineNum(13)	int(File fnd)	../../bh-eu-12-home.html
+4	LineNum(17)	int(absolute)	https://www.blackhat.com
+5	LineNum(18)	int(File fnd)	../../bh-eu-12-home.html
+6	LineNum(19)	int(File fnd)	../bh-eu-12-training_complete.html
+7	LineNum(20)	int(File fnd)	../../bh-eu-12-archives.html
+8	LineNum(21)	int(File fnd)	../../bh-eu-12-schedule.html
+9	LineNum(22)	int(File fnd)	../../bh-eu-12-sponsors.html
+10	LineNum(23)	int(File fnd)	../../bh-eu-12-arsenal.html
+11	LineNum(24)	int(File fnd)	../../bh-eu-12-venue.html
+12	LineNum(26)	int(No File!)	../../bh-eu-12-press.html
+13	LineNum(27)	int(File fnd)	../../bh-eu-12-archives.html
+14	LineNum(33)	int(absolute)	https://www.blackhat.com/BlackHatRSS.xml
+15	LineNum(34)	ext(absolute)	https://twitter.com/BlackHatEvents
+16	LineNum(35)	ext(absolute)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+17	LineNum(36)	ext(absolute)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+18	LineNum(43)	int(File fnd)	../bh-eu-12-training_complete.html
+19	LineNum(48)	int(No File!)	bh-ad-11-training_schedule.html
+20	LineNum(66)	ext(absolute)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE03
+21	LineNum(152)	int(File fnd)	../../../../index.html
+22	LineNum(153)	int(File fnd)	../../../archives.html
+23	LineNum(154)	int(File fnd)	../../../community.html
+24	LineNum(155)	int(File fnd)	../../../about.html
+25	LineNum(156)	int(File fnd)	../../../contact.html
+
+
+203 External Link HTTP responses and link counts:
+1	link active	LinkCount(2)	http://blog.DidierStevens.com
+2	link active	LinkCount(1)	http://eternal-todo.com
+3	link active	LinkCount(1)	http://hp.com/go/white-rabbit
+4	403 Forbidden	LinkCount(1)	http://ncircle.com
+5	link active	LinkCount(1)	http://ritter.vg
+6	link active	LinkCount(1)	http://ru.linkedin.com/in/belenko
+7	link active	LinkCount(2)	http://twitter.com/#!/BlackHatEvents
+8	link active	LinkCount(2)	http://twitter.com/#!/BlackHatHQ
+9	link active	LinkCount(1)	http://writingcenter.tamu.edu/2010/consultant-resources/level-2-projectsspring2010/helpful-presentation-tips-for-all-workshops/
+10	link active	LinkCount(1)	http://www.Garage4Hackers.com
+11	link active	LinkCount(2)	http://www.accuvant.com/
+12	link active	LinkCount(1)	http://www.beanactuary.org/counselors/speakit/tips.cfm
+13	link active	LinkCount(1)	http://www.biogeek.com/pages/presentation%20hints&tips.html
+14	link active	LinkCount(2)	http://www.blackhat.com
+15	link active	LinkCount(1)	http://www.blackhat.com 
+16	link active	LinkCount(1)	http://www.codenomicon.com/
+17	link active	LinkCount(1)	http://www.coresecurity.com
+18	link active	LinkCount(1)	http://www.coresecurity.com/
+19	link active	LinkCount(2)	http://www.elcomsoft.com/
+20	link active	LinkCount(2)	http://www.exhibitorinvites.com/blackhateurope
+21	link active	LinkCount(24)	http://www.facebook.com/pages/Black-Hat-Briefings/107691635153
+22	link active	LinkCount(2)	http://www.flickr.com/photos/blackhatevents/
+23	link active	LinkCount(1)	http://www.fortinet.com
+24	link active	LinkCount(1)	http://www.garrreynolds.com/Presentation/delivery.html
+25	link active	LinkCount(1)	http://www.garrreynolds.com/Presentation/index.html
+26	link active	LinkCount(1)	http://www.linkedin.com/groups?gid=37658
+27	link active	LinkCount(24)	http://www.linkedin.com/groups?gid=37658&trk=hb_side_g
+28	link active	LinkCount(2)	http://www.microsoft.com/security
+29	403 Forbidden	LinkCount(1)	http://www.ncircle.com
+30	link active	LinkCount(1)	http://www.netpeas.com
+31	link active	LinkCount(2)	http://www.netpeas.com/black-hat-europe-2012-call-for-tools
+32	link active	LinkCount(2)	http://www.netwitness.com
+33	500 Internal Server Error	LinkCount(1)	http://www.nh-hotels.com/events/en/event-detail/13342/ubm_techweb.html
+34	link active	LinkCount(1)	http://www.norman.com
+35	link active	LinkCount(1)	http://www.norman.com/
+36	link active	LinkCount(1)	http://www.notsosecure.com
+37	link active	LinkCount(2)	http://www.paloaltonetworks.com/
+38	link active	LinkCount(1)	http://www.presentationzen.com/presentationzen/2010/08/a-long-time-ago-before-death-by-powerpoint.html
+39	link active	LinkCount(1)	http://www.qualys.com
+40	link active	LinkCount(2)	http://www.rune.sg/
+41	link active	LinkCount(1)	http://www.simonroses.com
+42	link active	LinkCount(1)	http://www.sonicwall.com
+43	403 Forbidden	LinkCount(2)	http://www.ssh.com
+44	500 Can't connect to www.techedevents.org:80 (Bad hostname 'www.techedevents.org')	LinkCount(1)	http://www.techedevents.org/2004/speaker_resources/HelpfulTips.asp
+45	link active	LinkCount(1)	http://www.techweb.com/aboutus
+46	link active	LinkCount(2)	http://www.veracode.com/
+47	link active	LinkCount(1)	http://www.voices.com/articles/general-voice-over-topics/guide-to-public-speaking.html
+48	link active	LinkCount(1)	https://blackhat.reg.techweb.com/europe/2012/index/registrations/BHEUPR3215
+49	link active	LinkCount(8)	https://blackhat.reg.techweb.com/europe/2012/registrations
+50	link active	LinkCount(1)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE01
+51	link active	LinkCount(1)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE02
+52	link active	LinkCount(1)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE03
+53	link active	LinkCount(1)	https://blackhat.reg.techweb.com/europe/2012/registrations/?_mc=CPNMBE04
+54	link active	LinkCount(1)	https://cfp.blackhat.com
+55	link active	LinkCount(2)	https://cfp.blackhat.com/
+56	500 Can't connect to en.wikipedia.org:443 (connect: No route to host)	LinkCount(1)	https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database
+57	404 file does not exist	LinkCount(7)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+58	404 file does not exist	LinkCount(7)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+59	404 file does not exist	LinkCount(5)	https://media.blackhat.com/bh-eu-12/Arsenal/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+60	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Breedijk-Seccubus-Slides.pdf
+61	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Breedijk-Seccubus-WP.pdf
+62	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Esparza-peepdf-Code.zip
+63	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Esparza-peepdf-Slides.pdf
+64	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Labunets-Windbgshark-Code.zip
+65	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Mertens-pastemon.zip
+66	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Mertens-twittermon.zip
+67	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Ozkan-cvedetails.com.pdf
+68	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Arsenal/bh-eu-12-Stevens-PDF-Tools.zip
+69	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-Slides.pdf
+70	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-Tool.zip
+71	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6-WP.pdf
+72	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Atlasis/bh-eu-12-Atlasis-Attacking_IPv6.mov
+73	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks-Slides.pdf
+74	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks-WP.pdf
+75	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Baker/bh-eu-12-Baker-Needles_Haystacks.mov
+76	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Baylor/bh-eu-12-Baylor-Understanding_Botnets.mov
+77	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI-Slides.pdf
+78	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI-WP.pdf
+79	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Be'ery/bh-eu-12-Be'ery-FYI_you_got_LFI.mov
+80	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption-Slides.pdf
+81	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption-WP.pdf
+82	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Belenko/bh-eu-12-Belenko-Password_Encryption.mov
+83	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI-Slides.pdf
+84	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI-WP.pdf
+85	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Davis/bh-eu-12-Davis-HDMI.mov
+86	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems-Slides.pdf
+87	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems-WP.pdf
+88	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/DiCroce/bh-eu-12-DiCroce-CyberAttacks_to_SAP_systems.mov
+89	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy-Metal_Poisoned_Droid-Slides.pdf
+90	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy-Metal_Poisoned_Droid-WP.pdf
+91	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Erasmus/bh-eu-12-Erasmus-Heavy_Metal_That_Posioned_Droid.mov
+92	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE-Slides.pdf.pdf
+93	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE-WP.pdf
+94	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Forshaw/bh-eu-12-Forshaw-CANAPE.mov
+95	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Fulton/bh-eu-12-Fulton-Mobile_Network.mov
+96	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Guido/bh-eu-12-GuidoArpaia-Mobile_Exploit_Intelligence_Project.mov
+97	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Haruyama/bh-eu-12-Haruyama-Memory_Forensic-Slides.pdf
+98	500 Missing newline after chunk data: ''	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Haruyama/bh-eu-12-Haruyama-Memory_Forensic.mov
+99	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Defending_privacy_Border-Slides.pdf
+100	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Defending_privacy_Border-WP.pdf
+101	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Hofmann/bh-eu-12-Hofmann-Privacy_at_US_Border.mov
+102	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Iozzo/bh-eu-12-Iozzo-Sandbox_Odyssey.mov
+103	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL-TLS.mov
+104	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL_TLS_Interception-Slides.pdf
+105	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Jarmoc/bh-eu-12-Jarmoc-SSL_TLS_Interception-WP.pdf
+106	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-Slides.pdf
+107	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-Tool.zip
+108	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing-WP.pdf
+109	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lee/bh-eu-12-Lee-GDI_Font_Fuzzing.mov
+110	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Litchfield/bh-eu-12-Litchfield-Assortment_of_Database_Goodies.mov
+111	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu-Attackers_Day_into_Virology.mov
+112	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms-Slides.pdf
+113	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms-WP.pdf
+114	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Liu_Lovet/bh-eu-12-Liu_Lovet-Sandworms.mov
+115	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lord/bh-eu-12-Lord-Hotspot-Slides.pdf
+116	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lord/bh-eu-12-Lord-Hotspot.mov
+117	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling-Slides.pdf
+118	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling-WP.pdf
+119	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Los/bh-eu-12-Los-Offensive_Threat_Modeling.mov
+120	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lovet/bh-eu-12-Lovet-Human_Virology-Slides.pdf
+121	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Lovet/bh-eu-12-Lovet-Human_Virology-WP.pdf
+122	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11-Slides.pdf
+123	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11-WP.pdf
+124	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Madou/bh-eu-12-Madou-Secure10Broken11.mov
+125	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Mittal/bh-eu-12-Mittal-Pwnage_Sage_Cont.mov
+126	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Mittal/bh-eu-12-Mittal-Teensy.mov
+127	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit-Slides.pdf
+128	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf
+129	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Polstra/bh-eu-12-Polstra-Preventing_Oh_Shit.mov
+130	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Devices.mov
+131	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Disclosure-Slides.pdf
+132	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Radcliffe/bh-eu-12-Radcliffe-Embedded_Disclosure-WP.pdf
+133	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rajnovic/bh-eu-12-Rajnovic-36_Views_of_Cyberspace.mov
+134	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us-Slides.pdf
+135	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us-WP.pdf
+136	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rey/bh-eu-12-Rey-Call_Belong_to_Us.mov
+137	404 file does not exist	LinkCount(15)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-SLIDES.pdf
+138	404 file does not exist	LinkCount(18)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-WP.pdf
+139	404 file does not exist	LinkCount(39)	https://media.blackhat.com/bh-eu-12/Ristic/BlackHat-AD-2010-Ristic-Qualys-SSL-Survey-HTTP-Rating-Guide-code.pdf
+140	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps-Slides.pdf
+141	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps-WP.pdf
+142	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Rose/bh-eu-12-Rose-Smartphone_Apps.mov
+143	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment-Slides.pdf
+144	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment-WP.pdf
+145	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-Entrapment.mov
+146	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Royal/bh-eu-12-Royal-nvmtrace-Code.zip
+147	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security-Slides.pdf
+148	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security-Tool.zip
+149	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sasi/bh-eu-12-Sasi-IVR_Security.mov
+150	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Dissecting_Smart_Meters.mov
+151	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Samurai-WTF .pdf
+152	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Samurai-WTF.mov
+153	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Smart_Meters-Slides.pdf
+154	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Searle/bh-eu-12-Searle-Smart_Meters-WP.pdf
+155	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath-Slides.pdf
+156	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath-WP.pdf
+157	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Siddharth/bh-eu-12-Siddharth-Xpath.mov
+158	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino-Slides.pdf
+159	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino-WP.pdf
+160	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Sintsov/bh-eu-12-Sintsov-Lotus_Domino.mov
+161	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicious_PDFs-Slides.pdf
+162	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicious_PDFs-WP.pdf
+163	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Stevens/bh-eu-12-Stevens-Malicous_PDF.mov
+164	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways-Slides.pdf
+165	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways-WP.pdf
+166	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Williams/bh-eu-12-Williams-Exploiting_Gateways.mov
+167	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-Data_Mining.mov
+168	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-State_of_Software_Security-Slides.pdf
+169	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Wysopal/bh-eu-12-Wysopal-State_of_Software_Security-WP.pdf
+170	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/Yang/bh-eu-12-Yang-Kelihos_Botnet.mov
+171	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-Slides.pdf
+172	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-Tools.zip
+173	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning-WP.pdf
+174	link active	LinkCount(1)	https://media.blackhat.com/bh-eu-12/deVries/bh-eu-12-deVries-Beyond_Scanning.mov
+175	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/fx/bh-eu-12-FX-Apple_vs_Google_Platforms.mov
+176	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10-Slides.pdf
+177	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10-WP.pdf
+178	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/shah/bh-eu-12-Shah_HTML5_Top_10.mov
+179	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/videos/bh-eu-12-DIffie-Keynote.mp4
+180	500 Can't connect to media.blackhat.com:443 (SSL connect attempt failed because of handshake problemserror:00000000:lib(0):func(0):reason(0))	LinkCount(1)	https://media.blackhat.com/bh-eu-12/videos/bh-eu-12-Ritter-Future-of-Security-Protocols.mp4
+181	link active	LinkCount(26)	https://twitter.com/BlackHatEvents
+182	link active	LinkCount(1)	https://workplace.sonicwall.com/go/www.sonicwall.com/
+183	link active	LinkCount(25)	https://www.blackhat.com
+184	link active	LinkCount(1)	https://www.blackhat.com/
+185	link active	LinkCount(24)	https://www.blackhat.com/BlackHatRSS.xml
+186	link active	LinkCount(1)	https://www.blackhat.com/docs/admin/bh-registration_W8.pdf
+187	link active	LinkCount(2)	https://www.blackhat.com/docs/admin/bh-registration_W9.pdf
+188	link active	LinkCount(1)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-addclass.pdf
+189	link active	LinkCount(6)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf
+190	link active	LinkCount(1)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-cancellation.pdf 
+191	link active	LinkCount(2)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-ccchange.pdf
+192	link active	LinkCount(2)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-classchange.pdf
+193	link active	LinkCount(2)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-creditcardpayment.pdf
+194	link active	LinkCount(2)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-substitute.pdf
+195	link active	LinkCount(1)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-reg-wiretransfer.pdf
+196	404 file does not exist	LinkCount(1)	https://www.blackhat.com/docs/bh-eu-12/registration/bh-eu-12-wiretransfer.pdf
+197	link active	LinkCount(1)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-cfp_terms.html
+198	link active	LinkCount(1)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_terms.html
+199	link active	LinkCount(1)	https://www.blackhat.com/html/bh-eu-12/registration/bh-eu-12-registration_terms.html#substitutions
+200	link active	LinkCount(1)	https://www.blackhat.com/html/press.html
+201	500 Can't connect to www.facebook.com:443 (connect: No route to host)	LinkCount(2)	https://www.facebook.com/blackhat
+202	link active	LinkCount(2)	https://www.linkedin.com/groups?gid=37658
+203	link active	LinkCount(1)	https://www.owasp.org
+
+There were 24 files processed and 1,402 links were found.
+441 were external links and 770 were internal (any remaining links were top anchor links)... 
+of those internal links, 676 were matched to files, and 94 had no matching files.
+There were 203 unique external links, and 40 did not load successfully.

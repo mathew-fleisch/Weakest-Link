@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Black Hat &#174; Technical Security Conference: USA 2012 // Windows physical memory acquisition and analysis by Matthieu Suiche</title>
+	<link rel="shortcut icon" href="../images/favicon.ico" type="image/ico" /><link rel="shortcut icon" href="../images/favicon.ico" type="image/ico" />
+	<link href="../css/us-12-style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<center>
+<div id="container">
+
+	<div id="headerUS">
+		<a href="../bh-us-12-home.html"><img src="../../images/bh-us-12/bh-us-12-masthead.png" alt="Black Hat USA 2012" /></a>
+	</div>
+
+	<div id="nav" align="left">
+		<a href="https://www.blackhat.com">black hat home</a>
+		/ <a href="../bh-us-12-home.html">usa home</a>
+		/ <a href="bh-us-12-training_complete.html">training</a>
+		/ <a href="../bh-us-12-briefings.html">briefings</a>
+		<!--
+		/ <a href="../bh-us-12-schedule.html">schedule</a>-->
+		/ <a href="../bh-us-12-sponsors.html">sponsors</a>
+		/ <a href="../bh-us-12-specialevents.html">special events</a>
+		/ <a href="../bh-us-12-venue.html">venue</a>  
+	</div>
+
+
+	<div id="navSOCIAL" align="left">
+	    + <a href="mailto:feedback@blackhat.com">EMAIL</a><br />
+	    <!-- + <a href="https://www.blackhat.com/BlackHatRSS.xml">RSS</a><br /> -->
+	    + <a href="https://twitter.com/BlackHatEvents" target="_blank">TWITTER</a><br />
+	    + <a href="http://www.facebook.com/pages/Black-Hat-Briefings/107691635153" target="_blank">FACEBOOK</a><br />
+	    + <a href="http://www.linkedin.com/groups?gid=37658&trk=hb_side_g" target="_blank">LINKED.IN</a><br />
+	</div>
+
+
+	<div id="navGRAYLIST" align="left">	
+		<div class="wireframemenu" style="margin-top:14px;">
+	
+			<ul>
+				<li>
+					<a href="bh-us-12-training_complete.html">// <span style="font-variant:small-caps;">complete list</span></a>
+				</li>
+				<!--
+				<li>
+					<a href="bh-us-12-training_schedule.html">// <span style="font-variant:small-caps;">schedule</span></a>
+				</li>         
+				-->
+			</ul>    
+		</div>
+	</div>
+		
+	<div id="content" align="left">
+		
+		<h1>Windows physical memory acquisition and analysis</h1>
+		<h3>Matthieu Suiche</h3>
+		
+		<hr style="border-bottom:1px dotted #333;" />				
+		
+		<table width="100%">
+		    <tr>
+		        <td width="30%">
+		        <a title="Register for Black Hat USA 2012" href="../registration/bh-us-12-registration.html">
+		        <img src="../../images/bh-us-11/bh-us-11-reg-gray.png" alt="Register Now" border="0" /></a>
+		        </td>
+		    
+		         
+		    </tr>
+		</table>					
+		
+		
+		<br>	
+									
+		<hr style="border-bottom:1px dotted #333;" />				
+												
+		<h2>USA 2012 Weekend Training Session <span class="gray">//July 21 - 22</span></h2>
+		
+		<h2>USA 2012 Weekday Training Session <span class="gray">//July 23 - 24</span></h2>
+		
+		<hr style="border-bottom:1px dotted #333;" />				
+		
+				
+		
+		
+		<h3>Overview:</h3>
+		
+		
+		<p>In this live incident reponse and forensics course, students will learn using software based acquisitions methods about different full memory dump file format (Microsoft Hibernation file, Microsoft crash dump, and raw dump). Using MoonSols Windows Memory Toolkit (win32dd, win64dd, hibr2dmp, hibr2bin, dmp2bin, bin2dmp, ..). Students will learn the difference between hardware and software acquisition method. Based on this, they will learn how to do advanced analysis of these dumps, such as the hibernation file, using free Microsoft Debugger WinDbg. The analysis part of the training will explain basis of processor memory management, Windows memory and process management internals, WinDbg SDK and scripting. At the end of the course, students will be able to analyze a Windows Hibernation File from Windows 7 x64 with WinDbg. The students will also be able to perform a "cloud memory analysis" for VMWare Workstation and Microsoft Hyper-V R2 products.</p>	
+										
+		                        
+		<h3>Course Outline:</h3>
+		
+		<h2>DAY 1: Acquisition</h2>
+		<p>How to obtain memory dumps and how it works.</p>
+		
+		<ul class="list">
+			<li>Description of main memory dumps file format</li>
+		    <li><em>- Raw dump</em></li>
+		    <li><em>- Full memory crash dump</em></li>
+		    <li><em>- Hibernation file</em></li>
+		    <li>How to do physical memory acquisition for the Cloud (without stopping any VM)</li>
+		    <li>VMWare Workstation case * MoonSols bin2dmp</li>
+		    <li>Microsoft Hyper-V R2 case * MoonSols LiveCloudKd</li>
+			<li>How to use and internals of Win32dd and Win64dd utilities.</li>
+			<li>Introduction to and how to use MoonSols memory toolkit (provided by teacher) to illustrate previous points by converting a Microsoft hibernation file into a Microsoft crash dump loadable by Windbg.</li>
+		</ul>
+		
+		<h2>DAY 2: Analysis</h2>
+		<p>Using Windbg.</p>
+		
+		<ul class="list">
+			<li>Processor Memory Translation (Translation of virtual addresses into physical address on both x86 and x64 architecture)
+			<li>Windows Memory Manager internals</li>
+			<li>Windows Process Manager internals</li>
+			<li>Identification of active, hidden and exited processes</li>
+			<li>Dynamic Libraries (Dlls)</li>
+			<li>Files, Handles, Objects</li>
+			<li>Registry in memory</li>
+			<li>Brief introduction to WinDbg SDK and scripting</li>
+		    <li>Cloud Offensic (Offensive + Forensic) Modifying Virtual Machine activity/memory content from the Hypervisor via LiveCloudKd </li>
+		</ul>
+		
+								
+		<h3>Teaching Methods:</h3>
+		
+		<p>The course will be alternate with lectures to explain basis, with demonstrations to give a visual representation and with hands-on-labs to verify the knowledge and practice it.</p>
+		
+		<p>Students will run utilities from MoonSols Memory Toolkit (provided by the trainer) on their system to acquire memory dumps, and they will work with memory dumps provided by the trainer (e.g. Win7 x64 Hibernation File). Microsoft Windbg will also be used.</p>
+		
+		
+		<h3>prerequisites:</h3>
+		
+		<p>Students must know the difference between Kernel-land and User-land, what RAM or Physical Memory is, and must have used WinDbg at least one time.</p>
+		
+		
+		<h3>Who Should Attend:</h3>
+		
+		<p>Win32/64DD users who want to upgrade their knowledge, and learn more.
+		Law Enforcement, Forensic Investigators, Incident Responsers, Malware Analysts and people interested in Microsoft crash dump analysis (Kernel developpers, Troubleshooters, etc.)</p>
+		
+		
+		<h3>what to bring:</h3>
+		
+		<p>Students must bring their own laptop with at least Windows XP (or above; x86 or x64 only) installed, Administrator rights, enough RAM, 20GB of empty HD space and Microsoft WinDbg installed.</p>
+		
+		
+		<h3>what you will get:</h3>
+		
+		<ul class="list">
+		    <li>A CD with: 1 x Copy of MoonSols Windows Memory Toolkit (Professional Edition) per student</li>
+		    <li>Memory dumps (Windows 7 (x64) Hibernation File) </li>
+		</ul>
+		
+										 
+		<h3>Trainer:</h3>
+		
+		<p><strong>Matthieu Suiche</strong> is a security researcher who focuses on reverse code engineering and volatile memory analysis. His previous researches/utilities include Windows hibernation file, Windows physical memory acquisition (Win32dd/Win64dd) and Mac OS X Physical Memory Analysis.</p>
+		
+		<p>Matthieu has been a speaker during various security conferences such as PacSec, BlackHat USA, EUROPOL High Tech Crime Meeting, Shakacon, CanSecWest, BH DC etc. Prior to starting in 2010 MoonSols, a computer security and kernel code consulting and software company, Matthieu worked for companies such as E.A.D.S. (European Aeronautic Defence and Space Company) and the Netherlands Forensics Institute of the Dutch Ministry of Justice.</p>
+		
+		
+		<hr style="border-bottom:1px dotted #333;" />				
+		
+		
+		
+		<table id="pricing" width="100%" border="1" cellspacing="0" cellpadding="8" >
+		  <tr align="left" bgcolor="#000000">
+		    <td width="20%">
+		      Early:<br />Ends February 1
+		    </td>
+		    <td bgcolor="#000000" width="20%">
+		      Regular:<br />Ends June 1
+		    </td>
+		    <td bgcolor="#000000" width="20%">
+		      Late:<br />Ends July 20
+		    </td>
+		    <td bgcolor="#000000" width="20%">
+		      Onsite:
+		    </td>
+		  </tr>
+		    <tr align="left" bgcolor="black">
+		        <td width="20%">
+		            <p ><strong>$2000</strong></p>
+		        </td>
+		        <td width="20%">
+		            <p ><strong>$2200</strong></p>
+		        </td>
+		        <td width="20%">
+		            <p ><strong>$2400</strong></p>
+		        </td>
+		        <td width="20%">
+		            <p ><strong>$2700</strong></p>
+		        </td>
+		    </tr>
+		</table>
+		
+		
+		<hr />
+
+		<div id="navFOOT">
+			<a href="../../../index.html">home</a> / 
+			<a href="../../archives.html">archives</a> / 
+			<a href="../../community.html">community</a> / 
+			<a href="../../about.html">about</a> / 
+			<a href="../../contact.html">contact</a>
+			<br />
+			<span style="color:#333;font-size:9px;text-transform:uppercase;">2012 black hat &trade;</span>
+		</div>
+		<br />
+		<br />
+	</div>
+</div>
+</center>
+</body>
+</html>
